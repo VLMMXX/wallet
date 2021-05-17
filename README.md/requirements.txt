@@ -1,0 +1,39 @@
+The address used in wallet.py code is the wallet address, the address in the nodes folder used for accessing and running the chain 
+
+
+
+
+asn1crypto - fast, pure Python library for parsing and serializing ASN (Autonomous System)
+attrdict -library which provides mapping objects that allow their elements to be accessed both as keys and as attributes
+bit -multi-language library providing efficient bit abstractions and efficient bit manipulation algorithms
+certifi - provides Mozilla's carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts
+cffi - external package providing a C Foreign Function Interface for Python
+chardet - python port of the C++ universal character encoding detector from Mozilla
+coincurve -library provides well-tested Python bindings for libsecp256k1, the heavily optimized C library used by Bitcoin Core
+constants -type of variable that holds values, which cannot be changed
+cytoolz- Python package that borrows heavily from contemporary functional languanges
+dotenv -zero-dependency module that loads environment variables from a . env file into process. env
+ethaccount- entity with an ether (ETH) balance that can send transactions on Ethereum
+ethhash -proof-of-work mining algorithm implemented by the Ethereum network and Ethereum-based cryptocurrencies
+ethkeyfile -  library for handling the encrypted keyfiles used to store ethereum private keys
+ethkeys - API for Eth keys
+json -library can parse JSON from strings or files
+os -module in Python provides functions for interacting with the operating system
+parsimonious -fast arbitrary-lookahead parser written in Python
+pprint -module provides a capability to “pretty-print” arbitrary Python data structures in a form which can be used as input to the interpreter
+pycparser- is a complete parser of the C language, written in pure Python using the PLY parsing library
+requests - library is the de facto standard for making HTTP requests in Python
+six -utilities for wrapping over differences between Python 2 and Python 3
+subprocess -module allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes
+toolz -  set of utility functions for iterators, functions, and dictionaries
+urllib -Python module that can be used for opening URLs, it defines functions and classes to help in URL actions
+web3 -js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection
+websocket- computer communications protocol, providing full-duplex communication channels over a single TCP connection
+
+
+
+
+
+
+
+
